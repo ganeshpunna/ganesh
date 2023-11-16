@@ -1,0 +1,6 @@
+projectKey=e
+serverUrl=http://localhost:9098
+serverVersion=8.9.10.61524
+dashboardUrl=http://localhost:9098/dashboard?id=e
+ceTaskId=AYhNSzOmBAMRM0ZpU010
+ceTaskUrl=http://localhost:9098/api/ce/task?id=AYhNSzOmBAMRM0ZpU010

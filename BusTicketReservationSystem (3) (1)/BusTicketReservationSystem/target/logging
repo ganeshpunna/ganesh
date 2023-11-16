@@ -1,0 +1,161 @@
+2023-05-21 11:23:17 INFO  AppContext:22 - *************************************************************
+  2023-05-21 11:23:17 INFO  AppContext:23 - Welcome to Bus Ticket Management System
+  2023-05-21 11:23:17 INFO  AppContext:24 - 1.Admin Login
+  2023-05-21 11:23:17 INFO  AppContext:25 - 2.User Login
+  2023-05-21 11:23:17 INFO  AppContext:26 - 3.User Register
+  2023-05-21 11:23:17 INFO  AppContext:27 - 4.exit
+  2023-05-21 11:24:01 INFO  AppContext:32 - Enter Admin Username
+  2023-05-21 11:24:04 INFO  AppContext:34 - Enter password
+  2023-05-21 11:24:07 INFO  AdminDao:47 - Login Successfully !!!!
+  2023-05-21 11:24:07 INFO  HomeBase:28 - *********************************************************
+  2023-05-21 11:24:07 INFO  HomeBase:29 - *			 Welcome Admin 			*
+  2023-05-21 11:24:07 INFO  HomeBase:30 - *********************************************************
+  2023-05-21 11:24:07 INFO  HomeBase:31 - 1.Add Bus
+  2023-05-21 11:24:07 INFO  HomeBase:32 - 2.Delete Bus
+  2023-05-21 11:24:07 INFO  HomeBase:33 - 3.Update Bus By date
+  2023-05-21 11:24:07 INFO  HomeBase:34 - 4.View Bus Details on that date
+  2023-05-21 11:24:07 INFO  HomeBase:35 - 5.Update Bus by Avaliableseats
+  2023-05-21 11:24:07 INFO  HomeBase:36 - 6.View All Tickets
+  2023-05-21 11:24:07 INFO  HomeBase:37 - 7.Exit
+  2023-05-21 11:24:12 INFO  HomeBase:100 - Logout Successfully!!!!
+  2023-05-21 11:24:12 INFO  AppContext:22 - *************************************************************
+  2023-05-21 11:24:12 INFO  AppContext:23 - Welcome to Bus Ticket Management System
+  2023-05-21 11:24:12 INFO  AppContext:24 - 1.Admin Login
+  2023-05-21 11:24:12 INFO  AppContext:25 - 2.User Login
+  2023-05-21 11:24:12 INFO  AppContext:26 - 3.User Register
+  2023-05-21 11:24:12 INFO  AppContext:27 - 4.exit
+  2023-05-22 10:44:18 INFO  AppContext:22 - *************************************************************
+  2023-05-22 10:44:18 INFO  AppContext:23 - Welcome to Bus Ticket Management System
+  2023-05-22 10:44:18 INFO  AppContext:24 - 1.Admin Login
+  2023-05-22 10:44:18 INFO  AppContext:25 - 2.User Login
+  2023-05-22 10:44:18 INFO  AppContext:26 - 3.User Register
+  2023-05-22 10:44:18 INFO  AppContext:27 - 4.exit
+  2023-05-23 10:35:22 INFO  AppContext:32 - Enter Admin Username
+  2023-05-23 10:35:26 INFO  AppContext:34 - Enter password
+  2023-05-23 10:35:29 INFO  AdminDao:47 - Login Successfully !!!!
+  2023-05-23 10:35:29 INFO  HomeBase:28 - *********************************************************
+  2023-05-23 10:35:29 INFO  HomeBase:29 - *			 Welcome Admin 			*
+  2023-05-23 10:35:29 INFO  HomeBase:30 - *********************************************************
+  2023-05-23 10:35:29 INFO  HomeBase:31 - 1.Add Bus
+  2023-05-23 10:35:29 INFO  HomeBase:32 - 2.Delete Bus
+  2023-05-23 10:35:29 INFO  HomeBase:33 - 3.Update Bus By date
+  2023-05-23 10:35:29 INFO  HomeBase:34 - 4.View Bus Details on that date
+  2023-05-23 10:35:29 INFO  HomeBase:35 - 5.Update Bus by Avaliableseats
+  2023-05-23 10:35:29 INFO  HomeBase:36 - 6.View All Tickets
+  2023-05-23 10:35:29 INFO  HomeBase:37 - 7.Exit
+  2023-05-23 10:37:44 INFO  AppContext:22 - *************************************************************
+  2023-05-23 10:37:44 INFO  AppContext:23 - Welcome to Bus Ticket Management System
+  2023-05-23 10:37:44 INFO  AppContext:24 - 1.Admin Login
+  2023-05-23 10:37:44 INFO  AppContext:25 - 2.User Login
+  2023-05-23 10:37:44 INFO  AppContext:26 - 3.User Register
+  2023-05-23 10:37:44 INFO  AppContext:27 - 4.exit
+  2023-05-23 10:37:48 INFO  AppContext:32 - Enter Admin Username
+  2023-05-23 10:37:57 INFO  AppContext:34 - Enter password
+  2023-05-23 10:38:00 INFO  AdminDao:47 - Login Successfully !!!!
+  2023-05-23 10:38:00 INFO  HomeBase:28 - *********************************************************
+  2023-05-23 10:38:00 INFO  HomeBase:29 - *			 Welcome Admin 			*
+  2023-05-23 10:38:00 INFO  HomeBase:30 - *********************************************************
+  2023-05-23 10:38:00 INFO  HomeBase:31 - 1.Add Bus
+  2023-05-23 10:38:00 INFO  HomeBase:32 - 2.Delete Bus
+  2023-05-23 10:38:00 INFO  HomeBase:33 - 3.Update Bus By date
+  2023-05-23 10:38:00 INFO  HomeBase:34 - 4.View Bus Details on that date
+  2023-05-23 10:38:00 INFO  HomeBase:35 - 5.Update Bus by Avaliableseats
+  2023-05-23 10:38:00 INFO  HomeBase:36 - 6.View All Tickets
+  2023-05-23 10:38:00 INFO  HomeBase:37 - 7.Exit
+  2023-05-23 10:38:01 INFO  HomeBase:100 - Logout Successfully!!!!
+  2023-05-23 10:38:01 INFO  AppContext:22 - *************************************************************
+  2023-05-23 10:38:01 INFO  AppContext:23 - Welcome to Bus Ticket Management System
+  2023-05-23 10:38:01 INFO  AppContext:24 - 1.Admin Login
+  2023-05-23 10:38:01 INFO  AppContext:25 - 2.User Login
+  2023-05-23 10:38:01 INFO  AppContext:26 - 3.User Register
+  2023-05-23 10:38:01 INFO  AppContext:27 - 4.exit
+  2023-05-23 10:38:04 INFO  AppContext:39 - Enter Customer Username
+  2023-05-23 10:38:13 INFO  AppContext:41 - Enter Password
+  2023-05-23 10:38:17 INFO  UserDao:50 - Login Successfully !!!!
+  2023-05-23 10:38:17 INFO  HomeBase:110 - #*******************************************************#
+  2023-05-23 10:38:17 INFO  HomeBase:111 - *			 Welcome User 			*
+  2023-05-23 10:38:17 INFO  HomeBase:112 - #*******************************************************#
+  2023-05-23 10:38:17 INFO  HomeBase:113 - 1.View Buses by routefrom and routeto and date
+  2023-05-23 10:38:17 INFO  HomeBase:114 - 2.Delete Bus Ticket
+  2023-05-23 10:38:17 INFO  HomeBase:115 - 3.View Booking Details by id
+  2023-05-23 10:38:17 INFO  HomeBase:116 - 4.Update Boarding Location
+  2023-05-23 10:38:17 INFO  HomeBase:117 - 5.Exit
+  2023-05-23 10:38:26 INFO  HomeBase:121 - Enter your routefrom
+  2023-05-23 10:38:34 INFO  HomeBase:123 - Enter your routeto
+  2023-05-23 10:38:39 INFO  HomeBase:125 - Enter date-Ex(28-05-2023)
+  2023-05-23 10:38:44 INFO  UserBase:1511 - Bus [busno=12780
+date=15-05-2023
+bname=HyderabadExpress
+routefrom=Hyderabad
+routeto=Chennai
+boardingpoint=Narayanaguda,Dilshuknagar,LBNagar,Hayatnagar
+arrivingpoint=Madavakkam,Toraipakkam,Sholinganallur,Navallur,Kelambakkam
+btype=AC
+arrival=8:00(PM),8:30(PM),9:00(PM),9:30(PM)
+departure=7:00(AM),8:00(AM),8:30(AM),9:00(AM),9:30(AM)
+totalseats=0
+Avaliableseats=14
+amount=1600]
+  2023-05-23 10:38:44 INFO  UserBase:70 - Do you want to book ticket
+  2023-05-23 10:38:44 INFO  UserBase:71 - 1.YES
+  2023-05-23 10:38:44 INFO  UserBase:72 - 2.NO
+  2023-05-23 10:39:03 INFO  UserBase:76 - ********Book Your Ticket***********
+  2023-05-23 10:39:03 INFO  HomeBase:158 - Enter Bus Number
+  2023-05-23 10:39:11 INFO  HomeBase:160 - Enter bookticket routefrom
+  2023-05-23 10:39:15 INFO  HomeBase:162 - Enter bookticket routeto
+  2023-05-23 10:39:19 INFO  HomeBase:164 - Enter date EX:30-05-2023
+  2023-05-23 10:39:25 INFO  HomeBase:166 - Enter Your Name
+  2023-05-23 10:39:30 INFO  HomeBase:168 - Enter your Mobile Number
+  2023-05-23 10:39:34 INFO  HomeBase:170 - enter number of seats
+  2023-05-23 10:39:38 INFO  HomeBase:172 - Enter Boarding Location
+  2023-05-23 10:39:45 INFO  HomeBase:174 - Enter Arrival Location
+  2023-05-23 10:39:49 INFO  UserDao:180 - Total Amount to pay 3200
+  2023-05-23 10:39:49 INFO  UserDao:181 - ***********BusTicket Selected Successfully!!!!!***********
+  2023-05-23 10:39:49 INFO  HomeBase:183 - --------Do The Payment---------
+  2023-05-23 10:39:49 INFO  HomeBase:184 - Enter card Holder Name
+  2023-05-23 10:40:05 INFO  HomeBase:186 - Enter card Number
+  2023-05-23 10:40:15 INFO  HomeBase:188 - Enter cvv
+  2023-05-23 10:40:17 INFO  HomeBase:190 - Enter Expiry date
+  2023-05-23 10:40:21 INFO  UserDao:282 - ***********Payment is Done Successfully***********
+  2023-05-23 10:40:21 INFO  UserDao:283 - Your Transaction id is :879043839818
+  2023-05-23 10:40:21 INFO  UserDao:284 -  
+  2023-05-23 10:40:21 INFO  UserDao:285 - -------Bus Ticket Booked Successfully-------
+  2023-05-23 10:40:21 INFO  UserDao:286 - Your booking ID is:ID00005
+  2023-05-23 10:40:21 INFO  HomeBase:110 - #*******************************************************#
+  2023-05-23 10:40:21 INFO  HomeBase:111 - *			 Welcome User 			*
+  2023-05-23 10:40:21 INFO  HomeBase:112 - #*******************************************************#
+  2023-05-23 10:40:21 INFO  HomeBase:113 - 1.View Buses by routefrom and routeto and date
+  2023-05-23 10:40:21 INFO  HomeBase:114 - 2.Delete Bus Ticket
+  2023-05-23 10:40:21 INFO  HomeBase:115 - 3.View Booking Details by id
+  2023-05-23 10:40:21 INFO  HomeBase:116 - 4.Update Boarding Location
+  2023-05-23 10:40:21 INFO  HomeBase:117 - 5.Exit
+  2023-05-23 10:40:35 INFO  HomeBase:135 - Enter Customer Id
+  2023-05-23 10:40:52 INFO  UserBase:128 - {1=BookTicket [bid=ID00005, busnumber=12780, routefrom=Hyderabad, routeto=chennai, date=15-05-2023, name=ganesh, mobile=8790438398, totalseats=2, boardinglocation=LBNagar, arrivinglocation=navallur, amount=3200]}
+  2023-05-23 10:40:52 INFO  HomeBase:110 - #*******************************************************#
+  2023-05-23 10:40:52 INFO  HomeBase:111 - *			 Welcome User 			*
+  2023-05-23 10:40:52 INFO  HomeBase:112 - #*******************************************************#
+  2023-05-23 10:40:52 INFO  HomeBase:113 - 1.View Buses by routefrom and routeto and date
+  2023-05-23 10:40:52 INFO  HomeBase:114 - 2.Delete Bus Ticket
+  2023-05-23 10:40:52 INFO  HomeBase:115 - 3.View Booking Details by id
+  2023-05-23 10:40:52 INFO  HomeBase:116 - 4.Update Boarding Location
+  2023-05-23 10:40:52 INFO  HomeBase:117 - 5.Exit
+  2023-05-23 10:41:05 INFO  HomeBase:121 - Enter your routefrom
+  2023-05-23 10:41:11 INFO  HomeBase:123 - Enter your routeto
+  2023-05-23 10:41:20 INFO  HomeBase:125 - Enter date-Ex(28-05-2023)
+  2023-05-23 10:41:25 INFO  UserBase:1511 - Bus [busno=12780
+date=15-05-2023
+bname=HyderabadExpress
+routefrom=Hyderabad
+routeto=Chennai
+boardingpoint=Narayanaguda,Dilshuknagar,LBNagar,Hayatnagar
+arrivingpoint=Madavakkam,Toraipakkam,Sholinganallur,Navallur,Kelambakkam
+btype=AC
+arrival=8:00(PM),8:30(PM),9:00(PM),9:30(PM)
+departure=7:00(AM),8:00(AM),8:30(AM),9:00(AM),9:30(AM)
+totalseats=0
+Avaliableseats=12
+amount=1600]
+  2023-05-23 10:41:25 INFO  UserBase:70 - Do you want to book ticket
+  2023-05-23 10:41:25 INFO  UserBase:71 - 1.YES
+  2023-05-23 10:41:25 INFO  UserBase:72 - 2.NO
+  

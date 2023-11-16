@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Simple Cart</title>
+  <script src="script.js" defer></script>
+</head>
+<body>
+ <h2>Event Billing</h2>
+  <table>
+   <tr>
+    <th>ID</th>
+      <td>
+        <input type="text" name="eventId" id="eventId" >
+    </td>
+   </tr>
+   <tr>
+    <th>Event Name</th>
+     <td>
+        <input type="text" name="eventName" id="eventName" >
+     </td>
+    </tr>
+    <tr>
+    <th>Price</th>
+     <td>
+        <input type="text" name="price" id="price" >
+    </td>
+    </tr>
+    <tr>
+        <td>
+            <button id="add" onclick="addPrice()">Add to Cart</button>
+        </td>
+    </tr>
+    </table>
+    <p></p>
+   <div id="result"></div>
+   <div id="successMessage" style="color: brown;"></div>
+</body>
+</html>

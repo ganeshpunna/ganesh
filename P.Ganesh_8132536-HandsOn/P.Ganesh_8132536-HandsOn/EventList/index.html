@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Push & Pop</title>
+  <script src="script.js" defer></script>
+</head>
+<body>
+    <h2>Events List</h2>
+    <table>
+   <tr>
+    <td>Enter the Event:</td>
+    <td><input type="text" name="input" id="input" ></td>
+   </tr>
+   <tr>
+    <td>
+        <button id="push" onclick="pushElements()">Push</button>
+    </td>
+    <td>
+        <button id="pop" onclick="popElements()">Pop</button>
+    </td>
+    <td>
+        <button id="display" onclick="displayEvent()">Display</button>
+    </td>
+    </tr>
+    </table>
+    <p></p>
+    <div id="successMessage" style="color: brown;"></div>
+    <div id="result"></div>
+</body>
+</html>

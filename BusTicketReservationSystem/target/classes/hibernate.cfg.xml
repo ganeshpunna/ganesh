@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC 
+"-//Hibernate/Hibernate Configuration DTD 3.0//EN" 
+"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<!-- Version 8 MySQL hiberante-cfg.xml example for Hibernate 5 -->
+<hibernate-configuration>
+<session-factory>
+<property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+<!-- property name="connection.driver_class">com.mysql.jdbc.Driver</property -->
+<property name="connection.url">jdbc:mysql://localhost:3306/busbookingdb</property>
+<property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+<property name="connection.username">root</property>
+<property name="connection.password">root</property>
+<property name="hbm2ddl.auto">update</property>
+<mapping class="com.busticket.model.Admin" />
+<mapping class="com.busticket.model.BookTicket" />
+<mapping class="com.busticket.model.Bus" />
+<mapping class="com.busticket.model.Customer" />
+<mapping class="com.busticket.model.Payment" />
+
+</session-factory>
+</hibernate-configuration>
